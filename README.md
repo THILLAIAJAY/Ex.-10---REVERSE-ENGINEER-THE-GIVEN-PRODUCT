@@ -33,10 +33,10 @@
 ## Input:
 
 ### Output:
+![Screenshot 2025-04-24 154118](https://github.com/user-attachments/assets/9aca6633-c8f4-4dec-b1e9-03b3ce63eaf6)
 
-
-### Name:
-### Register Number:
+### Name: THILLAI AJAY.L
+### Register Number: 212224040354
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
